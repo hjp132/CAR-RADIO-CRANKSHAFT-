@@ -1,0 +1,1 @@
+console=tty3 root=/dev/mmcblk0p2 ro rootfstype=ext4 elevator=deadline fsck.repair=yes rootwait quiet logo.nologo loglevel=0 vt.global_cursor_default=0 noswap splash plymouth.ignore-serial-consoles consoleblank=0 ipv6.disable=1
